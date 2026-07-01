@@ -1,0 +1,1 @@
+Put all image files directly into the images folder. Keep filenames exactly the same as shown in your screenshot, including spaces and parentheses. Upload the full folder contents to your GitHub Pages repository root.
